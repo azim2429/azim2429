@@ -8,7 +8,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@abdulazim0402](https://medium.com/@abdulazim0402)
 
-- 💬 Ask me about **Flutter, Dart and Ppen source**
+- 💬 Ask me about **Flutter, Dart and Open source**
 
 - 🌱 I’m currently learning **UI/UX and MERN**
 
