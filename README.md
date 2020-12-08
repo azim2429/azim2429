@@ -18,7 +18,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=azim2429&theme=tokyonight&show_icons=true)
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azim2429&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azim2429&layout=compact&theme=tokyonight&show_icons=true)
 <p align="center"> 
 <a href="https://twitter.com/_azzzim_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="azim2429" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/abdul-azim-08087019b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhamhackz" height="20" width="20" /></a>
