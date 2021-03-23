@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 📝 I regulary write articles on [Medium](azzim.medium.com)
+- 📝 I regulary write articles on [Medium](https://azzim.medium.com/)
 
 - 💬 Ask me about **Flutter, Dart and Open source**
 
@@ -19,6 +19,6 @@
   <a href="https://instagram.com/_azzim_" target="blank"><img align="center" src="https://img.icons8.com/fluent/2x/instagram-new.png" alt="instagram" height="40" width="40" />   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.behance.net/_azzim_" target="blank"><img align="center" src="https://img.icons8.com/color/2x/behance.png" alt="behance" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://dribbble.com/_azzim_" target="blank"><img align="center" src="https://img.icons8.com/color/2x/dribbble.png" alt="dribble" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="azzim.medium.com" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/medium-monogram.png" alt="medium" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://azzim.medium.com/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/medium-monogram.png" alt="medium" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
   
 </p>
