@@ -6,7 +6,7 @@
 
 - 📝 I regulary write articles on [Medium](https://azzim.medium.com/)
 
-- 💬 Ask me about **Flutter, Dart and Open source**
+- 💬 Ask me about **Data Engineering**
 
 - 🌱 I’m currently learning **Data Science**
 
